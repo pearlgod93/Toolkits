@@ -60,7 +60,3 @@ plt.grid()
 plt.xlabel('Samples')
 
 plt.show()
-
-# **** PROGRAM END ****
-
-# Copyright (c) 2016 by Varun Chandramohan
